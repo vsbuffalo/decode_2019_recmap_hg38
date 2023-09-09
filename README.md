@@ -9,8 +9,8 @@ If you find a bug or issue in this, please report it as a GitHub issue.
 ## Inputs
 
  - `data/aau1043_datas3.gz` from
-   https://www.science.org/doi/suppl/10.1126/science.aau1043/suppl_file/aau1043_datas3.gz
-   Downloaded manually since using `wget` does not work. The journal
+   https://www.science.org/doi/suppl/10.1126/science.aau1043/suppl_file/aau1043_datas3.gz.
+   This was downloaded manually since using `wget` does not work. The journal
    *Science*'s webserver gives a 403: Forbidden HTTP error when using `wget`.
    So I have included the file in the repository, since it is relatively small. 
 
@@ -27,13 +27,13 @@ If you find a bug or issue in this, please report it as a GitHub issue.
 
 In the main directory: 
 
-   $ make 
+    $ make 
 
 ## Caveats and Warnings
 
- - Halldorsson et al. do not, unfortunately, specify whether their coordinates
-   are 0 or 1-based. Given the format is BED-like, I *assume* it follows BED
-   conventions (0-based, right exclusive). 
+Halldorsson et al. do not, unfortunately, specify whether their coordinates are
+0 or 1-based. Given the format is BED-like, I *assume* it follows BED
+conventions (0-based, right exclusive). 
 
 
 

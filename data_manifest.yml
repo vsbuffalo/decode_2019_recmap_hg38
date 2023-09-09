@@ -6,8 +6,8 @@ files:
   url: https://www.science.org/doi/suppl/10.1126/science.aau1043/suppl_file/aau1043_datas3.gz
 - path: decode_2019_recmap_hg38.txt
   tracked: false
-  md5: d41d8cd98f00b204e9800998ecf8427e
-  size: 0
+  md5: 156eb37c4ef743bf334533bae6f6a353
+  size: 40039609
   url: null
 remotes: {}
 metadata:
