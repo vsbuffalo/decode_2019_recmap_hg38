@@ -16,7 +16,7 @@ If you find a bug or issue in this, please report it as a GitHub issue.
 
 ## Outputs
 
- - `decode_2019_recmap_hg38.txt`: produced by running the script
+ - `decode_2019_recmap_hg38.txt.gz`: produced by running the script
    `tools/convert_bed_to_hapmap.py`.
 
 ## Requirements

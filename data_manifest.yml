@@ -1,14 +1,14 @@
 files:
+- path: decode_2019_recmap_hg38.txt.gz
+  tracked: false
+  md5: b8506e35d427f71de3e07486c6f3c05b
+  size: 15895894
+  url: null
 - path: data/aau1043_datas3.gz
   tracked: false
   md5: a97d643371423e9055d108d38269dcd1
   size: 26904065
   url: https://www.science.org/doi/suppl/10.1126/science.aau1043/suppl_file/aau1043_datas3.gz
-- path: decode_2019_recmap_hg38.txt
-  tracked: false
-  md5: 156eb37c4ef743bf334533bae6f6a353
-  size: 40039609
-  url: null
 remotes: {}
 metadata:
   title: null
