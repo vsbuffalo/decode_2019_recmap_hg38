@@ -1,0 +1,15 @@
+files:
+- path: data/aau1043_datas3.gz
+  tracked: false
+  md5: a97d643371423e9055d108d38269dcd1
+  size: 26904065
+  url: https://www.science.org/doi/suppl/10.1126/science.aau1043/suppl_file/aau1043_datas3.gz
+- path: decode_2019_recmap_hg38.txt
+  tracked: false
+  md5: d41d8cd98f00b204e9800998ecf8427e
+  size: 0
+  url: null
+remotes: {}
+metadata:
+  title: null
+  description: null
